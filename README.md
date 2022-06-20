@@ -1,5 +1,8 @@
-## **Hi!👋 my username is @LilDiabetes** 
-### **here, little bit of info about me**
+### <code>**Hi!👋 my username is @LilDiabetes**</code> 
+### <code>**Here, little bit of info about me**</code>
+
+
+---
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/eFWg68USeZgAAAAM/computer-hacker-fallout.gif" width="250"/>
