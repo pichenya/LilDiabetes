@@ -1,5 +1,5 @@
 ## **Hi!👋 my username is @LilDiabetes** 
----
+### **here, little bit of info about me**
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/eFWg68USeZgAAAAM/computer-hacker-fallout.gif" width="250"/>
@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning Coding (python) 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m currently employed as a junior software tester 😎
 
 
 
