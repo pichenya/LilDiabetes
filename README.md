@@ -23,7 +23,7 @@
 ---
 ### :man_technologist: About Me
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on multiple projects
 - 🌱 I’m currently learning Coding (python) 
 - 👯 I’m currently employed as a junior software tester 😎
 
