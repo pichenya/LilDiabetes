@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on multiple projects
 - 🌱 I’m currently learning Coding (python) 
-- 👯 I’m currently employed as a junior software tester 😎
+- 👯 I’m currently looking for back-end employment oppurtunities😎
 
 
 
